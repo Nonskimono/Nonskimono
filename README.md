@@ -17,7 +17,7 @@
 <h2>👨‍💻 R Data Analytics Projects:</h2>
 
 - <b>Predictive Analytics of Admission Rate of Ivywood University</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Nonskimono/College-Admissions)
+  - [Predictive Analytics using Logistic Regression and Classification trees](https://github.com/Nonskimono/College-Admissions)
 
 <h2>👨‍💻 Power BI Data Analytics Projects:</h2>
 
