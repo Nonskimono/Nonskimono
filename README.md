@@ -17,7 +17,7 @@
 <h2>👨‍💻 R Data Analytics Projects:</h2>
 
 - <b>Predictive Analytics of Admission Rate of Ivywood University</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Nonskimono/College-Admissions)
 
 <h2>👨‍💻 Power BI Data Analytics Projects:</h2>
 
@@ -27,11 +27,12 @@
 <h2>📄✒ Certifications:</h2>
 
 - <b>Harvard Business School CORe</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Certificate of Completion page1 (Encrypter)](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555976825)
+  - - [Certificate of Completion page2 (Encrypter)](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555982127)
 - <b>introduction to R</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Certificate of Completion (Encrypter)](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2dcb8035115b37e61eb93267a5e4d96302d3a79?share=true)
 - <b>Intermediate R</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Certificate of Completion (Encrypter)](https://www.datacamp.com/completed/statement-of-accomplishment/course/98e9506aa66515d026f938de50e9c3f1c3a9e9dd?share=true)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/chukwunonso-nnodum
