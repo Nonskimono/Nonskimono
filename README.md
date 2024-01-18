@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Data Analytics Projects:</h2>
 
 - <b>Companies House Postcode Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Analysis, Wrangling and Visualization with Python and Tableau](https://github.com/Nonskimono/Companies-House-Post-Code-Analysis)
 - <b>Predictive Analytics of the number of crypto-related websites</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
