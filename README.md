@@ -26,12 +26,12 @@
 <h2>📄✒ Certifications:</h2>
 
 - <b>Harvard Business School CORe</b>
-  - [Certificate of Completion page1 (Encrypter)](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555976825)
-  - - [Certificate of Completion page2 (Encrypter)](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555982127)
+  - [Certificate of Completion page1 ](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555976825)
+  - - [Certificate of Completion page2 ](https://www.linkedin.com/in/chukwunonso-nnodum/details/education/907982467/multiple-media-viewer/?profileId=ACoAACw5Rk8BaAFXQ0if9gKhtFSGFqcBwBxsxe8&treasuryMediaId=1635555982127)
 - <b>introduction to R</b>
-  - [Certificate of Completion (Encrypter)](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2dcb8035115b37e61eb93267a5e4d96302d3a79?share=true)
+  - [Certificate of Completion ](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2dcb8035115b37e61eb93267a5e4d96302d3a79?share=true)
 - <b>Intermediate R</b>
-  - [Certificate of Completion (Encrypter)](https://www.datacamp.com/completed/statement-of-accomplishment/course/98e9506aa66515d026f938de50e9c3f1c3a9e9dd?share=true)
+  - [Certificate of Completion ](https://www.datacamp.com/completed/statement-of-accomplishment/course/98e9506aa66515d026f938de50e9c3f1c3a9e9dd?share=true)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/chukwunonso-nnodum
