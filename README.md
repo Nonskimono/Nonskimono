@@ -12,7 +12,7 @@
 - <b>Hotel Performance Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Online Job Database</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Online Job Database using SQL and MongoDB](https://github.com/Nonskimono/Online-Job-Database) <b><i>(Potentially NSFW)</b></i>
 
 <h2>👨‍💻 R Data Analytics Projects:</h2>
 
