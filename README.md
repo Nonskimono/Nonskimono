@@ -5,7 +5,7 @@
 - <b>Companies House Postcode Analysis</b>
   - [Data Analysis, Wrangling and Visualization with Python and Tableau](https://github.com/Nonskimono/Companies-House-Post-Code-Analysis)
 - <b>Predictive Analytics of the number of crypto-related websites</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
  
 <h2>👨‍💻 SQL Data Analytics Projects:</h2>
 
