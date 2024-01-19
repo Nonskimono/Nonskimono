@@ -7,7 +7,7 @@
 - <b>Predictive Analytics of the number of crypto-related websites</b>
   - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
  
-<h2>👨‍💻 SQL Data Analytics Projects:</h2>
+<h2>👨‍💻 SQL, Power BI and MongoDB Data Analytics Projects:</h2>
 
 - <b>Hotel Performance Analysis</b>
   - [Hotel Performance Analysis and visualisation using SQL and Power BI](https://github.com/Nonskimono/SQL-Power-BI-Project) <b>
@@ -17,11 +17,6 @@
 
 - <b>Predictive Analytics of Admission Rate of Ivywood University</b>
   - [Predictive Analytics using Logistic Regression and Classification trees](https://github.com/Nonskimono/College-Admissions)
-
-<h2>👨‍💻 Power BI Data Analytics Projects:</h2>
-
-- <b>Hotel Performance Analysis</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
  
 <h2>📄✒ Certifications:</h2>
 
