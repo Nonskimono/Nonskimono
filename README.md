@@ -13,6 +13,7 @@
   - [Hotel Performance Analysis and visualisation using SQL and Power BI](https://github.com/Nonskimono/SQL-Power-BI-Project) <b>
 - <b>Online Job Database</b>
   - [Online Job Database using SQL and MongoDB](https://github.com/Nonskimono/Online-Job-Database) <b>
+  
 <h2>👨‍💻 R Data Analytics Projects:</h2>
 
 - <b>Predictive Analytics of Admission Rate of Ivywood University</b>
