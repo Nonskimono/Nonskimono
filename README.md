@@ -10,7 +10,7 @@
 <h2>👨‍💻 SQL Data Analytics Projects:</h2>
 
 - <b>Hotel Performance Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Hotel Performance Analysis and visualisation using SQL and Power BI](https://github.com/Nonskimono/SQL-Power-BI-Project) <b>
 - <b>Online Job Database</b>
   - [Online Job Database using SQL and MongoDB](https://github.com/Nonskimono/Online-Job-Database) <b>
 <h2>👨‍💻 R Data Analytics Projects:</h2>
