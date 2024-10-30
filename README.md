@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">Programmer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Aspiring Data Scientist</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a student at UTDallas</a></h1>
+<h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">Programmer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Aspiring Data Professional</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a student at The University of Texas at Dallas</a></h1>
 
 <h2>👨‍💻 Python Data Analytics Projects:</h2>
 
