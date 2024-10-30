@@ -1,11 +1,21 @@
 <h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">Programmer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Aspiring Data Professional</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a master's student at The University of Texas at Dallas</a></h1>
 
-<h2>👨‍💻 Python Data Analytics Projects:</h2>
+<h2>👨‍💻 Machine Learning Projects in Python:</h2>
+
+- <b>Predictive Analytics of the number of crypto-related websites</b>
+  - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
+- <b>Predictive Analytics of the number of crypto-related websites</b>
+  - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
+
+<h2>👨‍💻 Machine Learning Projects in R:</h2>
+
+- <b>Predictive Analytics of Admission Rate of Ivywood University</b>
+  - [Predictive Analytics using Logistic Regression and Classification trees](https://github.com/Nonskimono/College-Admissions)
+
+<h2>👨‍💻 Data Analytics Projects in Python:</h2>
 
 - <b>Companies House Postcode Analysis</b>
   - [Data Analysis, Wrangling and Visualization with Python and Tableau](https://github.com/Nonskimono/Companies-House-Post-Code-Analysis)
-- <b>Predictive Analytics of the number of crypto-related websites</b>
-  - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
  
 <h2>👨‍💻 SQL, Power BI and MongoDB Data Analytics Projects:</h2>
 
@@ -14,10 +24,6 @@
 - <b>Online Job Database</b>
   - [Online Job Database using SQL and MongoDB](https://github.com/Nonskimono/Online-Job-Database) <b>
   
-<h2>👨‍💻 R Data Analytics Projects:</h2>
-
-- <b>Predictive Analytics of Admission Rate of Ivywood University</b>
-  - [Predictive Analytics using Logistic Regression and Classification trees](https://github.com/Nonskimono/College-Admissions)
  
 <h2>📄✒ Certifications:</h2>
 
