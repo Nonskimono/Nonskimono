@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Machine Learning Projects in Python:</h2>
 
-- <b>Predictive Analytics of the number of crypto-related websites</b>
-  - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
+- <b>Real Estate Predictive Analytics using Decision Trees and Feature Importance Models</b>
+  - [Predictive Analytics using Decision Trees and Feature Importance Models](https://github.com/Nonskimono/Real-Estate-Predictive-Analytics-using-Decision-Trees-and-Feature-Importance-Models)
 - <b>Predictive Analytics of the number of crypto-related websites</b>
   - [Predictive Analytics using Linear Regression and Time Series Forcasting](https://github.com/Nonskimono/Predictive-analytics-using-Linear-Regression-and-Timeseries-Forecasting)
 
