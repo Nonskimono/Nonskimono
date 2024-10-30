@@ -9,6 +9,8 @@
 
 <h2>👨‍💻 Machine Learning Projects in R:</h2>
 
+- <b>Conagra Meat Substitutes Market Analysis & Strategy</b>
+  - [Predictive Analytics using Regression ](https://github.com/Nonskimono/Conagra-Meat-Substitutes-Market-Analysis-Strategy-in-R)
 - <b>Predictive Analytics of Admission Rate of Ivywood University</b>
   - [Predictive Analytics using Logistic Regression and Classification trees](https://github.com/Nonskimono/College-Admissions)
 
