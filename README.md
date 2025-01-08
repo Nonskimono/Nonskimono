@@ -28,7 +28,7 @@
   
 <h2>👨‍💻 Digital Product Management Projects:</h2>
 - <b>Compa Casa (Companions House)</b>
-  - [Digital Product Management](https://github.com/Nonskimono/Real-Estate-Predictive-Analytics-using-Decision-Trees-and-Feature-Importance-Models)
+  - [Digital Product Management with JIRA, Excel and Microsoft Powerpoint](https://github.com/Nonskimono/Digital-Product-Management)
  
 <h2>📄✒ Certifications:</h2>
 
