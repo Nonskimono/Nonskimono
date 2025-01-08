@@ -26,9 +26,11 @@
 - <b>Online Job Database</b>
   - [Online Job Database using SQL and MongoDB](https://github.com/Nonskimono/Online-Job-Database) <b>
   
+
 <h2>👨‍💻 Digital Product Management Projects:</h2>
+
 - <b>Compa Casa (Companions House)</b>
-  - [Digital Product Management with JIRA, Excel and Microsoft Powerpoint](https://github.com/Nonskimono/Digital-Product-Management)
+  - [Digital Product Management with JIRA, Excel and Microsoft Powerpoint](https://github.com/Nonskimono/Digital-Product-Management) <b>
  
 <h2>📄✒ Certifications:</h2>
 
