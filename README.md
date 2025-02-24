@@ -1,6 +1,11 @@
 <h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">Programmer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Aspiring Data Professional</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a master's student at The University of Texas at Dallas</a></h1>
 
+<h2>👨‍💻 Passion Project:</h2>
+
+
 <h2>👨‍💻 Machine Learning Projects in Python:</h2>
+
+- <b>FOREX trading Algorithm</b>
 
 - <b>Real Estate Predictive Analytics using Decision Trees and Feature Importance Models</b>
   - [Predictive Analytics using Decision Trees and Feature Importance Models](https://github.com/Nonskimono/Real-Estate-Predictive-Analytics-using-Decision-Trees-and-Feature-Importance-Models)
