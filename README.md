@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Passion Project:</h2>
 
+- <b>FOREX trading Algorithm</b>
 
 <h2>👨‍💻 Machine Learning Projects in Python:</h2>
-
-- <b>FOREX trading Algorithm</b>
 
 - <b>Real Estate Predictive Analytics using Decision Trees and Feature Importance Models</b>
   - [Predictive Analytics using Decision Trees and Feature Importance Models](https://github.com/Nonskimono/Real-Estate-Predictive-Analytics-using-Decision-Trees-and-Feature-Importance-Models)
