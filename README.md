@@ -3,6 +3,8 @@
 <h2>👨‍💻 Passion Project:</h2>
 
 - <b>FOREX trading Algorithm</b>
+  - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/Forex-Trading-Robot)
+
 
 <h2>👨‍💻 Machine Learning Projects in Python:</h2>
 
