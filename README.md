@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Passion Project:</h2>
 
-- <b>STOCKS trading Algorithm</b>
-  - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/STOCK-TRADING-ROBOT/blob/main/README.md)
 - <b>FOREX trading Algorithm</b>
   - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/Forex-Trading-Robot)
-
+- <b>STOCKS trading Algorithm</b>
+  - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/STOCK-TRADING-ROBOT/blob/main/README.md)
 
 <h2>👨‍💻 Machine Learning Projects in Python:</h2>
 
