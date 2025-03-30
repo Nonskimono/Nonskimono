@@ -4,7 +4,6 @@
 
 - <b>STOCKS trading Algorithm</b>
   - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/STOCK-TRADING-ROBOT/blob/main/README.md)
-
 - <b>FOREX trading Algorithm</b>
   - [Forex Trading using Data Automation, Prescriptive Analytics and Artificial Intelligence](https://github.com/Nonskimono/Forex-Trading-Robot)
 
