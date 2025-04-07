@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Chukwunonso's Resume:</h2>
 
-- <b>https://github.com/Nonskimono/Chukwunonso-Nnodum-s-Resume/upload</b>
+- <b>https://github.com/Nonskimono/Chukwunonso-Nnodum-s-Resume</b>
 
 
 <h2>👨‍💻 Passion Project:</h2>
