@@ -1,4 +1,9 @@
-<h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">Programmer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Aspiring Data Professional</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a master's student at The University of Texas at Dallas</a></h1>
+<h1>Hi, I'm Chukwunonso! <br/><a href="https://github.com/Nonskimono">A Developer</a>, <a href="www.linkedin.com/in/chukwunonso-nnodum">Data Scientist</a> and <a href="www.linkedin.com/in/chukwunonso-nnodum">a master's student at The University of Texas at Dallas</a></h1>
+
+<h2>👨‍💻 Chukwunonso's Resume:</h2>
+
+- <b>https://github.com/Nonskimono/Chukwunonso-Nnodum-s-Resume/upload</b>
+
 
 <h2>👨‍💻 Passion Project:</h2>
 
